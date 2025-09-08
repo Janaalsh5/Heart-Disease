@@ -10,7 +10,7 @@ Cardiovascular diseases (CVDs) are the leading cause of death worldwide, account
 
 -Reem Almaskati
 
-[Student 2 Name]
+-Danah AlDhowaihy
 
 [Student 3 Name]
 
