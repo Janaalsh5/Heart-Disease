@@ -1,6 +1,6 @@
 # Heart-Disease
 # Project Description
-This project focuses on analyzing a heart disease dataset with 11 clinical features, such as age, cholesterol level, blood pressure, and chest pain type. Our goal is to develop a classification model that identifies people at risk, enabling timely interventions. Additionally, clustering techniques will be applied to uncover hidden patterns or risk factors, offering deeper insights into cardiovascular health.
+This project focuses on analyzing a heart disease dataset with 12 clinical features, such as age, cholesterol level, blood pressure, and chest pain type. Our goal is to develop a classification model that identifies people at risk, enabling timely interventions. Additionally, clustering techniques will be applied to uncover hidden patterns or risk factors, offering deeper insights into cardiovascular health.
 
 # Motivation
 
